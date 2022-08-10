@@ -1,0 +1,1 @@
+https://www.codechef.com/submit/FCTRL2?tab=statement
